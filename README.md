@@ -13,9 +13,6 @@ tflite : A Flutter plugin for accessing TensorFlow Lite API
 https://pub.dev/packages/tflite
 
 
-### Youtube
-[![Flutter Github TFLite](./readme/youtube.png)](https://youtu.be/SRbxEQ89IBs)
-
 
 ### More
 - [flutter_tflite_style_transfer](https://github.com/PuzzleLeaf/flutter_tflite_style_transfer)
